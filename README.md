@@ -22,6 +22,8 @@
 	3. Ejecute y revise la salida por pantalla. 
 	4. Cambie el incio con 'start()' por 'run()'. Cómo cambia la salida?, por qué?.
 
+**Respuesta: El cambio que se evidencia entre el start y el run, es que start inicia todos los hilos de manera simultanea, en cambio utilizar el run(), hace que los hilos tengan el orden que uno especifica**
+
 **Parte II - Ejercicio Black List Search**
 
 
